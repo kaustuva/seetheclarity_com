@@ -1,3 +1,4 @@
+#Kaustuva Edited---This is for auto deployment test
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^seetheclarity\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.seetheclarity\.com$
